@@ -1,0 +1,38 @@
+# C build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+matrix_calculator
+matrix-calculator
+
+# Build directories
+build/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+*.cbp
+*.layout
+*.depend
+
+# Keep source, docs, and license (do NOT ignore these)
+# src/
+# README.md
+# LICENSE
